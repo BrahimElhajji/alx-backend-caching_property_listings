@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'property_db',
         'USER': 'property_user',
         'PASSWORD': 'property_pass',
-        'HOST': 'postgres',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
